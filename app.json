@@ -1,8 +1,8 @@
 {
     "name": "Queen Amdi 3.6.2v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "description": "Maevb0t is a personal chat bot for WhatsApp. 💃🏻❤️",
     "keywords": [
-        "Queen Amdi",
+        "Maev B0t",
         "WhatsApp",
         "User Bot",
         "Chat bot",
@@ -10,7 +10,7 @@
         "Black Amda"
     ],
     "website": "https://amdaniwasa.com",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "logo": "https://i.redd.it/snoovatar/avatars/0487244e-fc8b-47fa-a664-fbcc62019fd0.png",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
@@ -75,7 +75,7 @@
         "BYE_LOGO": {
             "description": "Picture with good bye message. Paste an image direct link or do '.setbye' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/pbjB2pS/93f527f9f2fb.jpg"
+            "value": "https://i.redd.it/snoovatar/avatars/0487244e-fc8b-47fa-a664-fbcc62019fd0.png"
         },
         "CAP": {
             "description": "Caption of media files.",
@@ -94,7 +94,7 @@
         },
         "GAN_IMAGE": {
             "description": "No need to change.",
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://i.redd.it/snoovatar/avatars/0487244e-fc8b-47fa-a664-fbcc62019fd0.png"
         },
         "HANDLERS": {
             "description": "Enter bot prefix to use commands. (Don't delete ^[ ])",
@@ -166,7 +166,7 @@
         "WELCOME_LOGO": {
             "description": "Picture with welcome message. Paste an image direct link or do '.setwelcome' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/XCfhtfH/301820a4f3c0.jpg"
+            "value": "https://i.redd.it/snoovatar/avatars/0487244e-fc8b-47fa-a664-fbcc62019fd0.png"
         },
         "WORK_TYPE": {
             "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
